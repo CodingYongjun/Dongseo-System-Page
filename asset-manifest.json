@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/DongseoSystemPage/static/css/main.e790b4dc.css",
-    "main.js": "/DongseoSystemPage/static/js/main.6403481c.js",
+    "main.css": "/DongseoSystemPage/static/css/main.d0dfff95.css",
+    "main.js": "/DongseoSystemPage/static/js/main.6b200c71.js",
     "static/js/787.81354a5a.chunk.js": "/DongseoSystemPage/static/js/787.81354a5a.chunk.js",
     "static/media/jpmbg.jpg": "/DongseoSystemPage/static/media/jpmbg.61bb5c9afb8d64c8114d.jpg",
     "static/media/cpybg.jpg": "/DongseoSystemPage/static/media/cpybg.f685dfbcb688dab0cb7c.jpg",
     "static/media/logo.png": "/DongseoSystemPage/static/media/logo.de413762e986338dfb50.png",
     "index.html": "/DongseoSystemPage/index.html",
-    "main.e790b4dc.css.map": "/DongseoSystemPage/static/css/main.e790b4dc.css.map",
-    "main.6403481c.js.map": "/DongseoSystemPage/static/js/main.6403481c.js.map",
+    "main.d0dfff95.css.map": "/DongseoSystemPage/static/css/main.d0dfff95.css.map",
+    "main.6b200c71.js.map": "/DongseoSystemPage/static/js/main.6b200c71.js.map",
     "787.81354a5a.chunk.js.map": "/DongseoSystemPage/static/js/787.81354a5a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e790b4dc.css",
-    "static/js/main.6403481c.js"
+    "static/css/main.d0dfff95.css",
+    "static/js/main.6b200c71.js"
   ]
 }
